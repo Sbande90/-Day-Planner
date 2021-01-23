@@ -83,7 +83,7 @@ textarea{
  .inputs{
      border-color: white;
      background-color: whitesmoke;
-     min-width: 300px;
+     min-width: 60%;
  }
  .Hours{
      text-align: center;
