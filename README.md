@@ -20,4 +20,4 @@ THEN the saved events persist
 
 ## deployed link
 
-[click me]()
+[click me](https://sbande90.github.io/-Day-Planner/)
