@@ -21,3 +21,5 @@ THEN the saved events persist
 ## deployed link
 
 [click me](https://sbande90.github.io/-Day-Planner/)
+
+![click me](./image.png)
